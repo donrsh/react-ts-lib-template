@@ -21,7 +21,7 @@
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
-    "typeRoots": ["typings"]
+    "typeRoots": ["./typings", "./node_modules/@types"]
   },
   "include": ["src/**/*"],
   "exclude": [
